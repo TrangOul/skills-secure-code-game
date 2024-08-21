@@ -4,7 +4,8 @@
     "vscode": {
       "extensions": [
         "ms-python.python", "ms-python.vscode-pylance", "ms-vscode.cpptools-extension-pack", "redhat.vscode-yaml", "golang.go",
-        "github.copilot-labs", "alexcvzz.vscode-sqlite"
+        "github.copilot-labs", "alexcvzz.vscode-sqlite",
+        "GitHub.copilot"
       ]
     }
   },
